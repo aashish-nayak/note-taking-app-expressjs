@@ -1,5 +1,5 @@
 {
-  "name": "express_be",
+  "name": "note_taking_app",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -8,7 +8,7 @@
     "dev": "nodemon server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Aashish Nayak",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.10",
